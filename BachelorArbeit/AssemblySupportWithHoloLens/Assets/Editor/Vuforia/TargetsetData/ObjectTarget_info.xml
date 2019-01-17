@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-11-01 12:31:27" name="relaisTarget" targetId="3152994a71d94db58e78dabbd13bfd4e" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-30 15:29:16" name="blueterminalTarget" targetId="a67c79e8fb0a43ddad5d49e0b6d7d5b1" version="2.0" />
+  </TargetSet>
+</QCARInfo>

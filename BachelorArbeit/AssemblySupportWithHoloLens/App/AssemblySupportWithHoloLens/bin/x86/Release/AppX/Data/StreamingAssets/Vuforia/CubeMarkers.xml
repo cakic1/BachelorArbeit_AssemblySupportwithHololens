@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ModelMarker" size="0.250000 0.140625" />
+    <ImageTarget name="RedBridge" size="0.250000 0.143382" />
+    <ImageTarget name="Relais" size="0.250000 0.156019" />
+    <ImageTarget name="GrayTerminal" size="0.250000 0.189752" />
+    <ImageTarget name="BlueTerminal" size="0.250000 0.125000" />
+    <ImageTarget name="Bilard" size="0.250000 0.140468" />
+  </Tracking>
+</QCARConfig>

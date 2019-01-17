@@ -1,0 +1,116 @@
+{
+  "Imodel": [
+    {
+      "ModelName": "1R4BT4GT2RLS2RB",
+      "matofmodel": [
+        {
+          "matNo": 1,
+          "GoName": "R",
+          "MatName": "Rail",
+          "UnityTransform": "trf_r",
+          "UnityMat": "trf_matR",
+          "MatInfo": "abc"
+        },
+        {
+          "matNo": 2,
+          "GoName": "BT",
+          "MatName": "BlueTerminal",
+          "UnityTransform": "trf_bt",
+          "UnityMat": "trf_matBT",
+          "MatInfo": "def"
+        },
+        {
+          "matNo": 3,
+          "GoName": "GT",
+          "MatName": "GrayTerminal",
+          "UnityTransform": "trf_gt",
+          "UnityMat": "trf_matGT",
+          "MatInfo": "ghi"
+        },
+        {
+          "matNo": 4,
+          "GoName": "RLS",
+          "MatName": "Relais",
+          "UnityTransform": "trf_rls",
+          "UnityMat": "trf_matRLS",
+          "MatInfo": "jkl"
+        },
+        {
+          "matNo": 5,
+          "GoName": "RB",
+          "MatName": "RedBridge",
+          "UnityTransform": "trf_rb",
+          "UnityMat": "trf_matRB",
+          "MatInfo": "mno"
+        }
+      ],
+      "matreihenfolge": [
+        {
+          "matno": 1,
+          "matRheinfolge": 1,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 2,
+          "matRheinfolge": 2,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 3,
+          "matRheinfolge": 3,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 4,
+          "matRheinfolge": 4,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 4,
+          "matRheinfolge": 5,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 3,
+          "matRheinfolge": 6,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 2,
+          "matRheinfolge": 7,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 3,
+          "matRheinfolge": 8,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 2,
+          "matRheinfolge": 9,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 3,
+          "matRheinfolge": 10,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 2,
+          "matRheinfolge": 11,
+          "redbridgeInfo_FrontRow": false
+        },
+        {
+          "matno": 5,
+          "matRheinfolge": 12,
+          "redbridgeInfo_FrontRow": true
+        },
+        {
+          "matno": 5,
+          "matRheinfolge": 13,
+          "redbridgeInfo_FrontRow": false
+        }
+      ]
+    }
+  ]
+}

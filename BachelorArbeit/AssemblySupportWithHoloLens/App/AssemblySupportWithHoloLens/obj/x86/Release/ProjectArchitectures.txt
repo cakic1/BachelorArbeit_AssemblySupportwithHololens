@@ -1,0 +1,8 @@
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\AssemblySupportWithHoloLens\AssemblySupportWithHoloLens.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\Unity.TextMeshPro.Tests\Unity.TextMeshPro.Tests.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj;x86
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj;x86

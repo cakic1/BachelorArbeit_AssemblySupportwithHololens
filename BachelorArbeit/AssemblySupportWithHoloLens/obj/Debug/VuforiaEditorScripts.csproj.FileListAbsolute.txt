@@ -1,0 +1,2 @@
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\obj\Debug\VuforiaEditorScripts.csprojAssemblyReference.cache
+E:\BFH\2018-HS Semester\Bachelor\Selbststudium\1TestNewVersion\AssemblySupportWithHoloLens\obj\Debug\VuforiaEditorScripts.csproj.CoreCompileInputs.cache
